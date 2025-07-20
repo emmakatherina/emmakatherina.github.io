@@ -17,11 +17,11 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color               : #EC0014; // red
+$info-color                 : #70BF4F; // gruen
+$notice-color               : #FFB2B7; // rosa
+$success-color              : #FFD335; // gelb
+$warning-color              : #3897F1; // blau
 
 /* Other basic settings for the template */
 $border-radius              : 4px;

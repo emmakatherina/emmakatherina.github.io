@@ -10,3 +10,5 @@ paperurl: '/files/2021-03-05-Local-Reasoning-for-Reconfigurable-Distributed-Syst
 slidesurl: '/files/2021-03-05-Local-Reasoning-for-Reconfigurable-Distributed-Systems-slides.pdf'
 citation: 'Emma Ahrens: &quot;Local Reasoning for Reconfigurable Distributed Systems.&quot; Bachelor Thesis, RWTH Aachen University, March 5, 2021.'
 ---
+
+This Bachelor thesis presents a framework for reasoning about dynamically reconfigurable distributed systems modeled in the DR-BIP framework. It develops a separation logic tailored to BIP configurations and introduces a reconfiguration language to express structural changes in distributed systems. The logic enables formal verification of reconfiguration programs using Hoare-style inference rules and a generalized frame rule, combining static and dynamic reasoning with havoc semantics. The approach is demonstrated through correctness proofs for reconfiguration programs on parametric token rings.
