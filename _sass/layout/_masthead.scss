@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: var(--global-masthead-bg-color);
   height: fit-content;
   top: 0;
   width: 100%;
@@ -44,7 +44,12 @@
   }
 }
 
+.masthead .greedy-nav {
+  background: var(--global-masthead-bg-color);
+}
+
 .masthead__menu {
+  background: var(--global-masthead-bg-color);
 
   ul {
     margin: 0;
@@ -55,7 +60,7 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  background-color: var(--global-masthead-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
