@@ -8,6 +8,7 @@ excerpt: 'Peak cost is a novel objective for flows over time that describes the 
 date: 2025-07-04
 venue: 'Networks'
 paperurl: 'https://doi.org/10.1002/net.70001'
+slidesurl: '/files/2022-10-28-Generalized-temporally-repeated-flows.pdf'
 bibtexurl: '/files/2025-07-04-Minimum-peak-cost-flows-over-time.bib'
 citation: 'Mariia Anapolska, Emma Ahrens, Christina Büsing, Felix Engelhardt, Timo Gersing, Corinna Mathwieser, Sabrina Schmitz, Sophia Wrede:
 &quot;Minimum-PeakCost Flows Over Time.&quot; <i>Networks</i> 2025'
